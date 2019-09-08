@@ -8,3 +8,6 @@ def about(request):
 
 def add():
     pass
+
+def change():
+    pass
